@@ -74,7 +74,7 @@
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/HannibalTHO/THO-OPTIMIZER-V2.git
+git clone https://github.com/HANNIBAL-THO/THO-OPTIMIZE-V2
 cd THO-OPTIMIZER-V2
 ```
 
