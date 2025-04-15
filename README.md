@@ -5,25 +5,63 @@
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TODO-HACK-OFFICIAL)
 [![Discord](https://img.shields.io/badge/Discord-Unete-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/4svwzsy3UP)
 
-![THO Optimizer Demo](vdo/preview.gif)" controls>
-  <source src="vdo/v.mp4" type="video/mp4">
+<img src="icons/1.ico" width="150" height="150" alt="THO Optimizer Logo">
+
+https://github.com/HannibalTHO/THO-OPTIMIZER-V2/assets/vdo/v.mp4
+
 *Una potente herramienta de optimización para Windows*
-</video>
+
 </div>
-*Una potente herramienta de optimización para Windows*
+
 ## 🚀 Características
-</div>
-- 🎮 Optimización para gaming
-- ⚡ Mejoras de rendimiento del sistema
-- 🔧 Optimización de servicios
-- 💾 Limpieza y mantenimiento
-- 🛡️ Ajustes de seguridad del sistema
-- 🌐 Optimización de redvicios
-- 🎨 Mejoras visualesnimiento
-- 🔋 Gestión de energíadad
-- 🌐 Optimización de red
-- 🎨 Mejoras visuales
-- 🔋 Gestión de energía
+
+### 🎮 Optimización para Gaming
+- Mejora el rendimiento en juegos
+- Optimiza la prioridad de GPU
+- Reduce la latencia del sistema
+- Configura Windows para gaming
+
+### ⚡ Mejoras de Rendimiento
+- THO NORMAL: Optimización básica del sistema
+- THO FULL: Optimización completa
+- THO EXTREMO: Máximo rendimiento
+- THO FPS BOOST: Mejora de FPS en juegos
+
+### 🔧 Optimización de Servicios
+- Desactiva servicios innecesarios
+- Optimiza servicios de Windows
+- Mejora el arranque del sistema
+- Reduce el consumo de recursos
+
+### 💾 Limpieza y Mantenimiento
+- THO TEMP: Limpia archivos temporales
+- THO RAM: Optimiza la memoria RAM
+- Limpieza del registro
+- Mantenimiento automático
+
+### 🛡️ Ajustes de Seguridad
+- THO DEFENDER: Optimiza Windows Defender
+- Mejora la protección del sistema
+- Configuración de firewall
+- Actualizaciones de seguridad
+
+### 🌐 Optimización de Red
+- THO RED: Mejora la conexión
+- Reduce la latencia
+- Optimiza DNS
+- Mejora el rendimiento online
+
+### 🎨 Mejoras Visuales
+- THO VISUAL: Optimiza efectos visuales
+- Mejora el rendimiento gráfico
+- Reduce efectos innecesarios
+- Optimiza la interfaz
+
+### 🔋 Gestión de Energía
+- THO BATERIA: Optimiza el consumo
+- Mejora la duración de la batería
+- Perfiles de energía personalizados
+- Balance rendimiento/consumo
 
 ## 📋 Requisitos Previos
 
@@ -40,23 +78,23 @@ git clone https://github.com/HannibalTHO/THO-OPTIMIZER-V2.git
 cd THO-OPTIMIZER-V2
 ```
 
-.\venv\Scripts\activatetual:
+2. Crear un entorno virtual:
 ```bash
 python -m venv venv
+.\venv\Scripts\activate
+```
+
 3. Instalar dependencias:
 ```bash
 pip install -r requirements.txt
-```Instalar dependencias:
-```bash
-
 ```
+
+## 🛠️ Compilación
+
 1. Asegúrate de tener todos los archivos necesarios:
-```bashCompilación
+```bash
 dir
-```Asegúrate de tener todos los archivos necesarios:
-```bash
-2. Instala PyInstaller si aún no lo tienes:
-```bash
+```
 
 2. Instala PyInstaller si aún no lo tienes:
 ```bash
@@ -65,17 +103,18 @@ pip install pyinstaller
 
 3. Compila el proyecto:
 ```bash
-4. El ejecutable se encontrará en la carpeta `dist`:icons/icon.ico --add-data "icons;icons/" --name "THO-Optimizer" main.py
-```bash
-cd dist
-THO-Optimizer.exese encontrará en la carpeta `dist`:
-```bash
-cd dist
+pyinstaller --noconfirm --onefile --windowed --icon=icons/icon.ico --add-data "icons;icons/" --name "THO-Optimizer" main.py
 ```
+
+4. El ejecutable se encontrará en la carpeta `dist`:
+```bash
+cd dist
+THO-Optimizer.exe
+```
+
+## 📝 Notas de Compilación
+
 - El ejecutable final estará en la carpeta `dist`
-- Asegúrate de tener todos los recursos (imágenes, iconos) en la carpeta `icons`
-- La compilación puede tardar unos minutos
-- El archivo ejecutable será independiente y no necesitará Python instalado
 - Asegúrate de tener todos los recursos (imágenes, iconos) en la carpeta `icons`
 - La compilación puede tardar unos minutos
 - El archivo ejecutable será independiente y no necesitará Python instalado
