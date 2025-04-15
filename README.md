@@ -7,7 +7,7 @@
 
 ![THO OPTIMIZER V2](vdo/v.mp4)
 
-*Una potente herramienta de optimización para Windows*
+*Una potente herramienta de optimización para Windows diseñada en python para optimizar tu pc al completo sin nesesidad de mas herramientas o programas externos todo esta en 1 para que se te facilite todo*
 
 </div>
 
@@ -51,9 +51,6 @@ pip install -r requirements.txt
 ## 🛠️ Compilación
 
 1. Asegúrate de tener todos los archivos necesarios:
-```bash
-dir
-```
 
 2. Instala PyInstaller si aún no lo tienes:
 ```bash
