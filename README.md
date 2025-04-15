@@ -2,10 +2,10 @@
 
 <div align="center">
 
+<img src="icons/1.ico" width="150" height="150" alt="THO Optimizer Logo">
+
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TODO-HACK-OFFICIAL)
 [![Discord](https://img.shields.io/badge/Discord-Unete-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/4svwzsy3UP)
-
-<img src="icons/1.ico" width="150" height="150" alt="THO Optimizer Logo">
 
 <img src="vdo/v.gif" alt="THO Optimizer Demo" width="720">
 
