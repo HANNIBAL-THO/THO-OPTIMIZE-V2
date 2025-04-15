@@ -7,7 +7,10 @@
 
 <img src="icons/1.ico" width="150" height="150" alt="THO Optimizer Logo">
 
-https://github.com/HannibalTHO/THO-OPTIMIZER-V2/assets/vdo/v.mp4
+<video width="720" height="405" controls>
+    <source src="./vdo/v.mp4" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+</video>
 
 *Una potente herramienta de optimización para Windows*
 
