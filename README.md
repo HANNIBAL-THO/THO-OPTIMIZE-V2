@@ -5,7 +5,7 @@
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TODO-HACK-OFFICIAL)
 [![Discord](https://img.shields.io/badge/Discord-Unete-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/4svwzsy3UP)
 
-![THO OPTIMIZER V2](vdo/v.mp4)
+![THO OPTIMIZER V2](vdo/V.mp4)
 
 *Una potente herramienta de optimización para Windows*
 
@@ -51,9 +51,6 @@ pip install -r requirements.txt
 ## 🛠️ Compilación
 
 1. Asegúrate de tener todos los archivos necesarios:
-```bash
-dir
-```
 
 2. Instala PyInstaller si aún no lo tienes:
 ```bash
