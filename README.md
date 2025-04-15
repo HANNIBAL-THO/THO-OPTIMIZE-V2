@@ -1,4 +1,4 @@
-# THO OPTIMIZER V2
+# THO OPTIMIZER V2 BY TODO HACK OFFICIAL
 
 <div align="center">
 
